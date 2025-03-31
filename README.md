@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" align="center" src="git_animation.gif" alt="animation" />
+<img width="100%" align="center" src="introduce.gif" alt="animation" />
 </p>
 
 
