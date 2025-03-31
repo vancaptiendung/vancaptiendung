@@ -1,30 +1,8 @@
-# About me
+<p align="center">
+<img width="100%" align="center" src="git_animation.gif" alt="animation" />
+</p>
 
 
-<!--
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-Here's a sentence with a footnote. [^1]
-
-### My Great Heading {#custom-id}
-
-[^1]: This is the footnote.
-
-term
-: definition
-
-~~The world is flat.~~
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-That is so funny! :joy:
-
-I need to highlight these ==very important words==.
-
-H~2~O
-X^2^
+<p align="center">
+  <img src="https://img.shields.io/badge/any_text-you_like-blue" alt="vancaptiendung" />
+</p>
