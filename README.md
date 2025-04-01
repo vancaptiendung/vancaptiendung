@@ -7,7 +7,7 @@
   <img width="200em" src="https://komarev.com/ghpvc/?username=vancaptiendung&label=Profile%20views&color=29C7B4&style=flat" />
   <img width="200em" src="https://img.shields.io/badge/Graphic%20Program-E6A02D?style=for-the-badge" alt="vandung" />
   <img width="200em" src="https://img.shields.io/badge/Arduino%20Program-F66363?style=for-the-badge" alt="vandung" />
-  <img width="180em" src="https://img.shields.io/badge/2D%20Game-93D102?style=for-the-badge" alt="vandung" />
+  <img width="180em" src="https://img.shields.io/badge/%20Game-93D102?style=for-the-badge" alt="vandung" />
 </p>
 
 - 👯 I am currently a student, I am now studying at PNH's present high school.
