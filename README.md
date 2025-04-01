@@ -1,4 +1,4 @@
-# ✨ Văn Cấp Tiến Dũng - William Van
+# ✨ Văn Cấp Tiến Dũng - Ryan Van
 `Graphics Programmer / Game maker / Linux user / Arduino Programmer`
 
 <p align="center">
@@ -29,8 +29,6 @@
 
 # 
 
-<br/>
-
 ### ⚙ Tools
 <p align = "center">
   <img alt="OpenGL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg"/>
@@ -44,14 +42,9 @@
   <img alt="VSCode" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="VSCode" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 </p>
-
-<br/>
-<br/>
 <br/>
 
 # 
-
-<br/>
 
 ### 📊 Stats
 <p align="center">
@@ -59,6 +52,7 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=vancaptiendung&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" />
 </p>
+<br/>
 
 # 
 
