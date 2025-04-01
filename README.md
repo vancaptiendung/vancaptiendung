@@ -1,4 +1,4 @@
-# ✨ Văn Cấp Tiến Dũng - Ryan Van
+# ✋ HI, I am Văn Cấp Tiến Dũng 
 `Graphics Programmer / Game maker / Linux user / Arduino Programmer`
 
 <p align="center">
@@ -29,20 +29,95 @@
 
 # 
 
-### ⚙ Tools
-<p align = "center">
-  <img alt="OpenGL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg"/>
-  <img alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="Windows" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-  <img alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="CMake" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
-  <img alt="VSCode" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img alt="VSCode" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-</p>
-<br/>
+### ⚙ Tools and Languages:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96"> 
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+      <img alt="OpenGL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg"/>
+      <br>OpenGL
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="cmake" />
+      <br>CMake
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+     <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+    </td>
+     </td>
+    <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 
 # 
 
