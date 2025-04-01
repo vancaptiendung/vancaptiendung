@@ -51,12 +51,15 @@
 <br/>
 
 ### 📊 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vancaptiendung&theme=github_dark)](https://github.com/vancaptiendung/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancaptiendung&layout=donut&theme=dracula" alt="Top Langs" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vancaptiendung&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" />
+</p>
 
 # 
 
-###🎖 Trophies
+### 🎖 Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vancaptiendung&theme=dracula" alt="vancaptiendung" />
