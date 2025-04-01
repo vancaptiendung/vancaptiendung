@@ -18,7 +18,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancaptiendung&theme=dracula" alt="khoa16122004" />
     </td>
     <td align="center" style="padding-left: 20px;">
-      <img src="woffy.png" alt="tiendung" width="300" />
+      <img src="code.png" alt="tiendung" width="300" />
     </td>
   </tr>
 </table>
