@@ -12,6 +12,9 @@
 - ♥ I am now focusing on OpenGL. But I am also in a 12th-grade final test, so I will return with it after graduation.
 - 💬 You can talk with me about Pygame-Python, Arduino programs, and OPENGL.
 
+<hr/>
+<br/>
+
 <table align="center">
   <tr>
     <td align="center" style="padding-right: 20px;">
@@ -23,11 +26,37 @@
   </tr>
 </table>
 
+# 
+
+<br/>
+
+### ⚙ Tools
+
+<img align="left" alt="OpenGL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg"/>
+<img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Windows" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+<img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="CMake" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
+<img align="left" alt="VSCode" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VSCode" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<br/>
+<br/>
+<br/>
+
+# 
+
+<br/>
+
 ### 📊 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vancaptiendung&theme=github_dark)](https://github.com/vancaptiendung/github-readme-stats)
 
-<h3 align="left">🎖 Trophies</h3>
+# 
+
+###🎖 Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vancaptiendung&theme=dracula" alt="vancaptiendung" />
