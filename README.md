@@ -3,12 +3,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vancaptiendung&label=Profile%20views&color=29C7B4&style=flat" />
-  <img src="https://img.shields.io/badge/Graphic%20Program-E6A02D?style=for-the-badge" alt="vandung" />
+  <img src="https://img.shields.io/badge/Graphic%20Program-E6A02D?style=for-the-badge"
+ alt="vandung" />
   <img src="https://img.shields.io/badge/Arduino%20Program-F66363?style=for-the-badge" alt="vandung" />
   <img src="https://img.shields.io/badge/2DGame%20Program-93D102?style=for-the-badge" alt="vandung" />
 </p>
 
-- 👯 I am currently a student, and I am now studying at PNH's present high school.
+- 👯 I am currently a student, and I am now studying at PNH's gifted high school.
 - ♥ I am now focusing on OpenGL. But I am also in a 12th-grade final test, so I will return with it after graduation.
 - 💬 You can talk with me about Pygame-Python, Arduino programs, and OPENGL.
 
