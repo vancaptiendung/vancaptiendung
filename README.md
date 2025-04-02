@@ -1,4 +1,4 @@
-# ✋ HI, I am Văn Cấp Tiến Dũng 
+# ✋ HI, I am Văn Cấp Tiến Dũng - Leon Van
 `Graphics Programmer / Game maker / Linux user / Arduino Programmer`
 
 <p align="center">
