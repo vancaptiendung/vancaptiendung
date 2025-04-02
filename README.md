@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Graphic%20Program-E6A02D?style=for-the-badge"
  alt="vandung" />
   <img src="https://img.shields.io/badge/Arduino%20Program-F66363?style=for-the-badge" alt="vandung" />
+
   <img src="https://img.shields.io/badge/2DGame%20Program-93D102?style=for-the-badge" alt="vandung" />
 </p>
 
@@ -19,7 +20,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding-right: 20px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancaptiendung&theme=cobalt" alt="khoa16122004" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancaptiendung&theme=cobalt" alt="dung" />
     </td>
     <td align="center" style="padding-left: 20px;">
       <img src="code.png" alt="tiendung" width="300" />
