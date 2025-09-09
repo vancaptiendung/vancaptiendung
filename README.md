@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/2DGame%20Program-93D102?style=for-the-badge" alt="vandung" />
 </p>
 
-- 👯 I am currently a student, and I am now studying at PNH's gifted high school.
-- ♥ I am now focusing on OpenGL. But I am also in a 12th-grade final test, so I will return with it after graduation.
+- 👯 I am currently a student, and I am now studying at University of Infomation && Technology ( Ho Chi Minh City National University )
+- ♥ I am now in love with Graphic Program. But my university manjor is cibersecurity, so I will code with these thing just for fun.
 - 💬 You can talk with me about Pygame-Python, Arduino programs, and OPENGL.
 
 <hr/>
