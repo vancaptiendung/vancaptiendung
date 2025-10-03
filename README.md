@@ -11,8 +11,8 @@
 </p>
 
 - 👯 I am currently a student, and I am now studying at University of Infomation && Technology ( Ho Chi Minh City National University )
-- ♥ I am now in love with Graphic Program. But my university manjor is cibersecurity, so I will code with these thing just for fun.
-- 💬 You can talk with me about Pygame-Python, Arduino programs, and OPENGL.
+- ♥ My university manjor is CyberSecurity. I am very interesting on malware and some malicious stuff. 
+- 💬 But you can also talk with me about Pygame-Python, Arduino programs, and OPENGL.
 
 <hr/>
 <br/>
