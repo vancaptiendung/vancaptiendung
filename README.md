@@ -11,7 +11,7 @@
 </p>
 
 - 👯 I am currently a student, and I am now studying at University of Infomation && Technology ( Ho Chi Minh City National University )
-- ♥ My university manjor is CyberSecurity. I am very interesting on malware and some malicious stuff. 
+- ♥ My university major is CyberSecurity. I am now very interested in malware and some malicious stuff.
 - 💬 But you can also talk with me about Pygame-Python, Arduino programs, and OPENGL.
 
 <hr/>
