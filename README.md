@@ -1,13 +1,14 @@
 # ✋ HI, I am Văn Cấp Tiến Dũng - David Van
-`Graphics Programmer / Game maker / Linux user / Arduino Programmer`
+`Red Team/ Graphics Programmer / Game maker / Linux user / Arduino Programmer`
 
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=vancaptiendung&label=Profile%20views&color=29C7B4&style=flat" />
-  <img src="https://img.shields.io/badge/Graphic%20Program-E6A02D?style=for-the-badge"
+  <img src="https://img.shields.io/badge/Malicous%20Programmer-FF0000?style=for-the-badge"
  alt="vandung" />
-  <img src="https://img.shields.io/badge/Arduino%20Program-F66363?style=for-the-badge" alt="vandung" />
-
-  <img src="https://img.shields.io/badge/2DGame%20Program-93D102?style=for-the-badge" alt="vandung" />
+  <img src="https://img.shields.io/badge/Graphic%20Programmer-FF9A00?style=for-the-badge"
+ alt="vandung" />
+  <img src="https://img.shields.io/badge/Arduino%20Program-00ABFF?style=for-the-badge" alt="vandung" />
 </p>
 
 - 👯 I am currently a student, and I am now studying at University of Infomation && Technology ( Ho Chi Minh City National University )
