@@ -20,8 +20,8 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding-left: 20px;">
-      <img src="Screencast from 2025-10-16 17-47-04.gif" alt="tiendung" width="300" />
+    <td align="center" >
+      <img src="Screencast from 2025-10-16 17-47-04.gif" alt="tiendung" width="800" />
     </td>
   </tr>
 </table>
