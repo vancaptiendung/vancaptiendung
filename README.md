@@ -18,7 +18,7 @@
 <hr/>
 <br/>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" style="padding-right: 20px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancaptiendung&theme=cobalt" alt="dung" />
@@ -27,7 +27,7 @@
       <img src="code.png" alt="tiendung" width="300" />
     </td>
   </tr>
-</table>
+</table> -->
 
 # 
 
