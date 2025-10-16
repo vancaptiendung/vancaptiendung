@@ -18,16 +18,13 @@
 <hr/>
 <br/>
 
-<!-- <table align="center">
+<table align="center">
   <tr>
-    <td align="center" style="padding-right: 20px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancaptiendung&theme=cobalt" alt="dung" />
-    </td>
     <td align="center" style="padding-left: 20px;">
-      <img src="code.png" alt="tiendung" width="300" />
+      <img src="Screencast from 2025-10-16 17-47-04.gif" alt="tiendung" width="300" />
     </td>
   </tr>
-</table> -->
+</table>
 
 # 
 
