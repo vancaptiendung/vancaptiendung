@@ -3,7 +3,6 @@
 style="display:block; margin:0 auto; width:100%;"/>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ffdcbeb-0429-4084-ae5f-7bef8723ace3" width="60" style="margin-right:40px;">
-  <img src="https://github.com/user-attachments/assets/6b77676e-ab06-4da0-ae45-6ff8f3117b51" width="60" style="margin-left:40px;">
 </p>
 
 </div>
