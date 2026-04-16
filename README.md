@@ -1,8 +1,9 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=150&section=header&reversal=false&fontSize=50&fontColor=FF6600&fontAlign=50&fontAlignY=35&desc=---Y_GUY---&descSize=30&descAlign=50&descAlignY=70&theme=shadow_red&text=VAN%20CAP%20TIEN%20DUNG" 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=150&section=header&reversal=false&fontSize=50&fontColor=3399FF&fontAlign=50&fontAlignY=35&desc=---Y_GUY---&descSize=30&descAlign=50&descAlignY=70&theme=shadow_red&text=VAN%20CAP%20TIEN%20DUNG" 
 style="display:block; margin:0 auto; width:100%;"/>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ffdcbeb-0429-4084-ae5f-7bef8723ace3" width="60" style="margin-right:40px;">
+  <img src="./cloud.png" width="100">
 </p>
 
 </div>
@@ -10,16 +11,18 @@ style="display:block; margin:0 auto; width:100%;"/>
 <p align="center">
   
   <img src="https://komarev.com/ghpvc/?username=vancaptiendung&label=Profile%20views&color=29C7B4&style=flat" />
-  <img src="https://img.shields.io/badge/RED%20Team-FF0000?style=for-the-badge"
+  <img src="https://img.shields.io/badge/CLOUND%20ENGINEER-3399FF?style=for-the-badge"
  alt="vandung" />
-  <img src="https://img.shields.io/badge/Graphic%20Programmer-FF9A00?style=for-the-badge"
+  <img src="https://img.shields.io/badge/PENTESTER-FF0000?style=for-the-badge"
  alt="vandung" />
-  <img src="https://img.shields.io/badge/Arduino%20Program-00ABFF?style=for-the-badge" alt="vandung" />
+  <img src="https://img.shields.io/badge/IOT%20PROGRAMMER-00ABFF?style=for-the-badge" alt="vandung" />
 </p>
 
-- 👯 I am currently a student, and I am now studying at University of Infomation && Technology ( Ho Chi Minh City National University )
-- ♥ My university major is CyberSecurity. I am now very interested in malware and some malicious stuff.
-- 💬 But you can also talk with me about Pygame-Python, Arduino programs, and OPENGL.
+👯 I am currently a student, and I am now studying at University of Infomation && Technology ( Ho Chi Minh City National University )
+<br>
+♥ My university major is CyberSecurity. I am very interested in malware and cloud stuff.
+<br>
+💬 But you can also talk with me about Pygame-Python, Arduino programs, and OPENGL.
 
 <hr/>
 <br/>
