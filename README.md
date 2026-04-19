@@ -28,35 +28,55 @@ style="display:block; margin:0 auto; width:100%;"/>
 <br/>
 
 ### ⚙ Tools:
-<p align="center">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+<table align="center" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none; padding: 0 15px;">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
+</td>
+<td style="border: none; padding: 0 15px;">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" />
+</td>
+<td style="border: none; padding: 0 15px;">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
+</td>
+<td style="border: none; padding: 0 15px;">
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td style="border: none; padding: 0 15px;">
 <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" />
-</p>
+</td>
+</tr>
+</table>
 
 ### ✨ Language:
-<p align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none; padding: 0 20px;">
 <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td style="border: none; padding: 0 20px;">
 <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td style="border: none; padding: 0 20px;">
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" />
-</p>
+</td>
+</tr>
+</table>
 
 ### 😍 Other Favorites:
-<p align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none; padding: 0 20px;">
 <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td style="border: none; padding: 0 20px;">
 <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td style="border: none; padding: 0 20px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="50" height="50" />
-</p>
+</td>
+</tr>
+</table>
 
 # 
 
