@@ -35,96 +35,59 @@ style="display:block; margin:0 auto; width:100%;"/>
   </tr>
 </table> -->
 
-# 
 
-### ⚙ Tools and Languages:
-
-<table>
+### ⚙ Tools:
+<table align="center">
   <tr>
     <td align="center" width="96">
+      <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+      <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
     </td>
     <td align="center" width="96">
+    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
     </td>
     <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96"> 
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-      <img alt="OpenGL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg"/>
-      <br>OpenGL
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="cmake" />
-      <br>CMake
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-     <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-    </td>
-     </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
+      <br>
     </td>
   </tr>
- <tr>
- </tr>
+</table>
+
+### ✨ Language
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+    </td>
+  </tr>
+</table>
+
+### 😍 Other favouris:
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+    </td>
+    <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
+    </td>
+  </tr>
 </table>
 
 # 
