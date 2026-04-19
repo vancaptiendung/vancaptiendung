@@ -27,68 +27,36 @@ style="display:block; margin:0 auto; width:100%;"/>
 <hr/>
 <br/>
 
-<!-- <table align="center">
-  <tr>
-    <td align="center" >
-      <img src="Screencast from 2025-10-16 17-47-04.gif" alt="tiendung" width="800" />
-    </td>
-  </tr>
-</table> -->
-
-
 ### ⚙ Tools:
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
-    </td>
-    <td align="center" width="96">
-      <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
-    </td>
-    <td align="center" width="96">
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
-    </td>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="50" height="50" />
+</p>
 
-### ✨ Language
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-    </td>
-  </tr>
-</table>
+### ✨ Language:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" />
+</p>
 
-### 😍 Other favouris:
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-    </td>
-    <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
-    </td>
-  </tr>
-</table>
+### 😍 Other Favorites:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="50" height="50" />
+</p>
 
 # 
 
