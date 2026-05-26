@@ -82,9 +82,7 @@ style="display:block; margin:0 auto; width:100%;"/>
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancaptiendung&layout=donut&theme=cobalt" alt="Top Langs" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=vancaptiendung&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancaptiendung&theme=dracula" alt="vancaptiendung" />
 </p>
 <br/>
 
