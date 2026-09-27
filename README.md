@@ -63,7 +63,7 @@ style="display:block; margin:0 auto; width:100%;"/>
 </tr>
 </table>
 
-### 😍 Other Favorites:
+<!-- ### 😍 Other Favorites:
 <table align="center" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td style="border: none; padding: 0 20px;">
@@ -76,13 +76,22 @@ style="display:block; margin:0 auto; width:100%;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="50" height="50" />
 </td>
 </tr>
-</table> -->
+</table> --> 
+
+![Alt](https://repobeats.axiom.co/api/embed/110aeb3bb4140579e146d205d31bbf88ba86917c.svg "Repobeats analytics image")
 
 # 
 
 ### 📊 Stats
+<table>
+<td>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancaptiendung&theme=dracula" alt="vancaptiendung" />
+</td>
+<td>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vancaptiendung&theme=dark" alt="vancaptiendung" />
+</td>
+</table>
 </p>
 <br/>
 
